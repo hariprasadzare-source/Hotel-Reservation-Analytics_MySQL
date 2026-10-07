@@ -62,3 +62,8 @@ The analysis provides insights that can help hotel management improve revenue, u
 ## Conclusion
 
 This project helped apply SQL concepts to a practical business scenario and develop skills in **database management, SQL querying, data analysis, and business problem-solving**.
+
+## Author
+**Hariprasad Zare**
+Data Analytics Learner
+GitHub: **hariprasadzare-source**
