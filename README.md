@@ -65,5 +65,7 @@ This project helped apply SQL concepts to a practical business scenario and deve
 
 ## Author
 **Hariprasad Zare**
+
 Data Analytics Learner
+
 GitHub: **hariprasadzare-source**
